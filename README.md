@@ -14,7 +14,7 @@ Dataset yang digunakan adalah *cars.csv*, yang berisi berbagai spesifikasi mobil
 Kolom target adalah:  
 - Brand : Label kategorikal yang menunjukkan apakah mobil berasal dari Amerika Serikat, Jepang, atau Eropa.
 
-Alur Proyek**  
+Alur Proyek
 1. Pra-pemrosesan Data
    Memilih fitur numerik untuk pelatihan model.
 
